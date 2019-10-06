@@ -1,6 +1,6 @@
 # Automatic evaluation of Crown Preparation using Image Processing Technique: A substitute to Faculty Scoring in Dental Education
 
-[Read paper here](dental_project_paper.pdf)
+[Read our paper here.](dental_project_paper.pdf)
 
 ## Dependencies
 
@@ -12,5 +12,6 @@
 ## Usage:
 
 Install QT/C++ , then install OpenCV for C++.  
-Run main.cpp to use GUI.
+
+Run main.cpp in QT to run the software.
 
